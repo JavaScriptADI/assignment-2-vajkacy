@@ -33,13 +33,13 @@ console.log(z);
 
 //6.
 
-let any = "Hello"
+let any = "Hello";
 
 console.log(any.toUpperCase());
 
 //.7
 
-let any_2 = "World"
+let any_2 = "World";
 
 console.log(any_2.toLowerCase());
 
@@ -56,7 +56,7 @@ console.log(text2);
 //10 toLowercase -> toLowerCase
 
 let text3 = 'Hello';
-console.log(text.toLowerCase());
+console.log(text3.toLowerCase());
 
 /*
 11. prompt('How old are you?'); -> Number(prompt('How old are you?'))because in js "age" was declared as 
