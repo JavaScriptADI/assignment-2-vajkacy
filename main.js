@@ -45,7 +45,7 @@ console.log(any_2.toLowerCase());
 
 //8. it's juts Hello
 let text = 'Hello';
-console.log(text)
+console.log(text);
 text.toUpperCase();
 console.log(text);
 
